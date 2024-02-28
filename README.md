@@ -20,9 +20,9 @@ RiiConnect24 Patcher is a program made for easier installation of RiiConnect24. 
 * Translated to 11 languages. English, Dutch, French, German, Hungarian, Italian, Polish, Portuguese, Russian, Spanish and Swedish.
 
 ### Works on these versions of Windows
-- [ ] Windows XP
+- [ ] Windows XP & Vista
 - [X] Windows 7 [might have issues]
-- [X] Windows 8.1
+- [X] Windows 8 & 8.1
 - [X] Windows 10
 - [X] Windows 11
 
